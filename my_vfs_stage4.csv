@@ -1,0 +1,5 @@
+path,type,content
+root,folder,
+root/folder1,folder,
+root/folder1/file2.txt,file,SGVsbG8gZnJvbSBmaWxlMg==
+root/file1.txt,file,SGVsbG8gZnJvbSBmaWxlMQ==

@@ -1,0 +1,6 @@
+ls
+chmod rwxrwxrwx file1.txt
+cd folder1
+chmod rw-rw-r-- file2.txt
+vfs-save my_vfs_stage5.csv
+exit

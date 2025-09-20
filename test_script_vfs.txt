@@ -1,0 +1,6 @@
+ls
+cd folder1
+ls
+cd ..
+ls
+vfs-save my_vfs.csv

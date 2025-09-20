@@ -1,0 +1,5 @@
+path,type,content,permissions
+root,folder,,rwxr-xr-x
+root/folder1,folder,,rwxr-xr-x
+root/folder1/file2.txt,file,SGVsbG8gZnJvbSBmaWxlMg==,rw-rw-r--
+root/file1.txt,file,SGVsbG8gZnJvbSBmaWxlMQ==,rwxrwxrwx

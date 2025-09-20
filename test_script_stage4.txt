@@ -1,0 +1,8 @@
+ls
+cd folder1
+ls
+cd ..
+date
+who
+vfs-save my_vfs_stage4.csv
+exit
