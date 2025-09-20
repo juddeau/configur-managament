@@ -1,4 +1,4 @@
-# vfs_emulator_gui_stage2.py
+# python3 vfs_emulator2.py --vfs-path ./my_vfs --script ./test_script_vfs.txt
 import tkinter as tk
 from tkinter import scrolledtext
 import shlex
