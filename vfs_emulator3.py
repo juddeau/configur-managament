@@ -1,4 +1,3 @@
-# vfs_emulator_gui_stage3.py
 import tkinter as tk
 from tkinter import scrolledtext
 import shlex
